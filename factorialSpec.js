@@ -1,4 +1,4 @@
-import factorial from "./factorial.js";
+const factorial = require("./factorial.js");
 
 console.log(factorial(0) === 1);
 console.log(factorial(1) === 1);

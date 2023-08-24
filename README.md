@@ -7,15 +7,13 @@
 To run `factorial.js` itself:
 
 ```sh
-npm start
-# alternatively: node factorial.js
+node factorial.js
 ```
 
 To run `factorialSpec.js`:
 
 ```sh
-npm test
-# alternatively: node factorialSpec.js
+node factorialSpec.js
 ```
 
 In this exercise you are going to create a function that takes a number parameter and returns the factorial of it.

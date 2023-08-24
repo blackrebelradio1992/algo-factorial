@@ -1,3 +1,5 @@
-export default function factorial(num) {
+function factorial(num) {
   return 0;
 }
+
+module.exports = factorial;
